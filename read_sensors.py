@@ -1,6 +1,6 @@
 import time
 
-from lib.sensors.cpu import get_power_consumption, get_frequencies
+from src.sensors.cpu import get_power_consumption, get_frequencies
 
 
 def print_consumption():

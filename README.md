@@ -2,7 +2,7 @@
 
 ## Installation
 
-Run the `misc/build.sh` script to install the following dependencies:
+Run the `misc/prepare.sh` script to install the following dependencies:
 - NAS benchmark
 - CoreFreq
 - Python3 and pip
